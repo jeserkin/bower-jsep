@@ -1,0 +1,12 @@
+{
+  "name": "jsep",
+  "version": "0.3.0-bower",
+  "main": "build/jsep.js",
+  "ignore": [
+    "node_modules",
+    "test",
+    "Gruntfile.js",
+    "package.json",
+    "src"
+  ]
+}
